@@ -1,3 +1,1 @@
 # NovoRecyclerViewCardView
-# NovoRecyclerViewCardView
-# NovoRecyclerViewCardView
