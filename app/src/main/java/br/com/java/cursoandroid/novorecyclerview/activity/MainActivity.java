@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
         conteudo = DataBindingUtil.setContentView(this , R.layout.activity_main);
         //recyclerView = findViewById(R.id.recyclerView);
 
-        //Listagem de filmes
+        // Listagem de filmes
         this.criarFilmes();
 
         //Configurar adapter
